@@ -1,5 +1,5 @@
-import React, { Component } from 'react'
-import { Text, StyleSheet, View } from 'react-native'
+import React, {Component} from 'react';
+import {Text, StyleSheet, View} from 'react-native';
 
 export default class HomeScreen extends Component {
   render() {
@@ -7,8 +7,8 @@ export default class HomeScreen extends Component {
       <View>
         <Text> Hello </Text>
       </View>
-    )
+    );
   }
 }
 
-const styles = StyleSheet.create({})
+const styles = StyleSheet.create({});
